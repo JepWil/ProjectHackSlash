@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/BP_PrimaryGameMode.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/BP_PlayerCharacter.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_MAT.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_diffuse.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_specular.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_normal.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_Skeleton.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_PhysicsAsset.uasset"
 			]
 		}
 	]
