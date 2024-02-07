@@ -15,7 +15,18 @@
 				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_specular.uasset",
 				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_normal.uasset",
 				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_Skeleton.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_PhysicsAsset.uasset"
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_PhysicsAsset.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/Paladin_Anim_BP.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Run.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Jump.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Jump_Reverse.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Run_Reverse.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Paladin_Run_Blendspace.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Walk_.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Walk_Reverse.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Input/Actions/IA_Walk.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Idle.uasset"
 			]
 		}
 	]
