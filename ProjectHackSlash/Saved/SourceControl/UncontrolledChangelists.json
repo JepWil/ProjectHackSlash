@@ -1,33 +1,3 @@
-{
-	"version": 1,
-	"changelists": [
-		{
-			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/BP_PrimaryGameMode.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/BP_PlayerCharacter.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_MAT.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_diffuse.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_specular.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_normal.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_Skeleton.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Models/Paladin/Paladin_PhysicsAsset.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/Paladin_Anim_BP.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Run.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Jump.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Jump_Reverse.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Run_Reverse.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Paladin_Run_Blendspace.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Walk_.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Walk_Reverse.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Input/Actions/IA_Walk.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"E:/Game Projects/ProjectHackSlash/ProjectHackSlash/Content/MyContent/Player/Animations/PaladinAnimations/Sword_And_Shield_Idle.uasset"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1946af380e5e3a377cec3da14240890b8ba908bf21f9e20713ad6510d70930a9
+size 138633
